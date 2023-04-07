@@ -1,0 +1,9 @@
+1.) load data and check NaN 
+2.) discard columns , which are non-correlated
+or which are non numeric 
+3.) split data in x and y axis variables 
+4.) split data in test and train parts 
+5.) create object for algorithm class 
+6.) fit training data 
+7.) predict y_axis value for test data 
+8.) Model Evaluation - check the error 
